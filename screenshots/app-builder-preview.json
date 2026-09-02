@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fisgada",
+      "hasCanvas": false,
+      "bodyTextLen": 7,
+      "bodyTextHash": "dd8d5aaeea557c7fc041de0e13a649d87941940a8a76f1650ff01b3cb6942ef3",
+      "bodyTextPrefix": "Fisgada",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fisgada",
+      "hasCanvas": true,
+      "bodyTextLen": 149,
+      "bodyTextHash": "d9ae76246fc86a5eedb419d7173b2b299e543e221af8f9b645f8ad916e558d77",
+      "bodyTextPrefix": "PESCARIA DO ABISMO Fisgada Lance mais fundo. Acerte o momento. T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
